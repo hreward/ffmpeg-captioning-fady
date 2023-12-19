@@ -1,0 +1,11 @@
+1
+00:00:0,000 --> 00:00:2,000
+First of all the timw zone is GMT+2
+
+2
+00:00:3,000 --> 00:00:4,000
+I am having a conversation
+
+3
+00:00:6,000 --> 00:00:8,000
+with <b>Fady Taher</b> of Mazano

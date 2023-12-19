@@ -1,0 +1,1 @@
+ffmpeg -i ../../orhan-pergel.mp4 -vf "subtitles=../../subtiles/subs345.srt" -c:a copy ../../outputs/music_video.mp4
